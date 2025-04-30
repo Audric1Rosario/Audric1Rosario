@@ -54,7 +54,8 @@
 </p>
 
 ---
-### Visitor Count
+
+### ✨ Visitor Count ✨
 
 <img src="https://profile-counter.glitch.me/{audric1rosario}/count.svg" alt="audric1rosario :: Visitor's Count" />
 
