@@ -9,8 +9,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Systems+and+Computer+Engineer;Full+Stack+Developer;Data+Scientist+in+Progress" alt="Typing SVG" />
 
-- Currently working as a **Full Stack Web Developer**.
-- Transitioning into **Data Science**, **Big Data**, and **AI**.
+- Currently working as a **Data Analyst/Data Engineer**.
 - Passionate about transforming data into meaningful solutions and building scalable systems.
 - I love tackling challenges, from analyzing complex datasets to designing architectures and fine-tuning performance.
 - Big believer in **collaboration**, **continuous learning**, and **growth**.
