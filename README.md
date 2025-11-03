@@ -54,12 +54,6 @@
 </p>
 
 ---
-
-### ✨ Visitor Count ✨
-
-<img src="https://profile-counter.glitch.me/{audric1rosario}/count.svg" alt="audric1rosario :: Visitor's Count" />
-
----
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=audric1rosario&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
