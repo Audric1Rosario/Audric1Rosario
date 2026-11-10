@@ -13,8 +13,8 @@
 
 - 🏗️ **4+ years building high-availability distributed systems**, from Java/Spring Boot telecom microservices to mission-critical SQL Server platforms for a U.S. enterprise.
 - ☁️ I design **end-to-end architectures** (database, backend, frontend) on **AWS** and **Azure**, from the client's SOW to an approved design.
-- 🗄️ I govern **production SQL Server platforms and data pipelines** for a leading U.S. marine manufacturer: reliability, release governance, observability and legacy systems integration.
-- 👥 I **lead engineering teams**: code reviews, requirement translation with U.S. stakeholders and delivery.
+- 🗄️ I work on **production SQL Server platforms and data pipelines** for a leading U.S. marine manufacturer: database development, change governance, observability and legacy systems integration.
+- 👥 I've **led engineering teams**: code reviews, 1:1s, requirement translation with U.S. stakeholders and delivery.
 - 🔭 Genuinely passionate about data and AI (especially **agents and NLP**), working toward becoming an **AI Researcher** who builds state-of-the-art intelligent systems.
 
 ---
@@ -23,15 +23,15 @@
 
 **📐 Warranty Claims Module: Architecture & Team Leadership**<br>
 `Solution Design` `SQL Server` `C# / .NET`<br>
-Designed the end-to-end architecture (database, backend, frontend) within the first 3 weeks, starting from the client's SOW, and secured client approval. As Team Lead, guided 4 engineers through delivery: code reviews, requirement translation with U.S. stakeholders and backlog management in Taiga and Jira.
+As Team Lead, designed the end-to-end architecture (database, backend, frontend) within the first 3 weeks, starting from the client's SOW; the client approved it. Led 3 engineers through delivery: code reviews, 1:1s and requirement translation with U.S. stakeholders.
 
 **☁️ Cloud Document Engine & Migration**<br>
 `C# / .NET` `Python` `AWS S3`<br>
-Built a document-management engine in C# backed by AWS S3 to replace per-dealer SharePoint access. A Python tool mapped the SharePoint content into a migration inventory, then a C# migrator used it to resolve dependencies and move 10,000+ files, **eliminating 800 SharePoint licenses** across the dealer network.
+Part of the team that built a document-management engine on AWS S3 to replace per-dealer SharePoint access. I built the migration tooling (a Python tool that mapped SharePoint into a migration inventory and a C# migrator that used it to resolve dependencies) and ran the migration of 10,000+ files, which **eliminated 800 SharePoint licenses** across the dealer network.
 
 **📈 ML-Driven Database Observability**<br>
 `Grafana` `Prometheus` `Alertmanager` `SQL Server`<br>
-Designed and built from scratch an observability platform for production SQL Server, using ML analysis to choose the critical performance metrics and alerts. It **outperformed the commercial IDERA suite and partially replaced it**.
+Designed and built from scratch an observability platform for production SQL Server, using ML analysis to choose the key performance metrics and alerts. It complements the commercial IDERA suite.
 
 **🤖 AI Invoice Reconciliation Engine (FinTech / Enterprise Solution)**<br>
 `Power Platform` `Azure SQL` `AI Matching` `React` `FastAPI` `OpenAI GPT`<br>
