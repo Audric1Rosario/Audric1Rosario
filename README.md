@@ -4,7 +4,7 @@
 <h4 align="center">Designing data platforms, cloud architectures and applied AI</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Solutions+Architect+%7C+Senior+Data+%26+AI+Engineer;Distributed+Systems+%26+Cloud+Architecture+(AWS+%2F+Azure);SQL+Server+Database+Engineering+%26+ML+Observability;Future+AI+Researcher+%7C+Agents+%26+NLP" alt="Solutions Architect | Senior Data & AI Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Solutions+Architect+%7C+Senior+Software+Engineer;Distributed+Systems+%26+Cloud+Architecture+(AWS+%2F+Azure);SQL+Server+Database+Engineering+%26+ML+Observability;Future+AI+Researcher+%7C+Agents+%26+NLP" alt="Solutions Architect | Senior Data & AI Engineer" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 ### 🏗️ Selected Architecture & Engineering Highlights
 
-**📐 Warranty Claims Module: Architecture & Team Leadership**<br>
+**📐 Architecture & Team Leadership**<br>
 `Solution Design` `SQL Server` `C# / .NET`<br>
 As Team Lead, designed the end-to-end architecture (database, backend, frontend) within the first 3 weeks, starting from the client's SOW; the client approved it. Led 3 engineers through delivery: code reviews, 1:1s and requirement translation with U.S. stakeholders.
 
