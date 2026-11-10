@@ -1,21 +1,21 @@
 <!-- GitHub README Profile -->
 
 <h1 align="center">Hi there, I'm Audric <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-<h4 align="center">Designing data platforms, cloud architectures and applied AI for U.S. enterprises</h4>
+<h4 align="center">Designing data platforms, cloud architectures and applied AI</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Solutions+Architect+%7C+Senior+Data+%26+AI+Engineer;Distributed+Systems+%26+Cloud+Architecture+(AWS+%2F+Azure);Production+Database+Governance+%26+ML+Observability;Future+AI+Researcher+%7C+Agents+%26+NLP" alt="Solutions Architect | Senior Data & AI Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Solutions+Architect+%7C+Senior+Data+%26+AI+Engineer;Distributed+Systems+%26+Cloud+Architecture+(AWS+%2F+Azure);SQL+Server+Database+Engineering+%26+ML+Observability;Future+AI+Researcher+%7C+Agents+%26+NLP" alt="Solutions Architect | Senior Data & AI Engineer" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🏗️ **4+ years building high-availability distributed systems**, from Java/Spring Boot telecom microservices to mission-critical SQL Server platforms for a U.S. enterprise.
+- 🏗️ **4+ years building high-availability distributed systems**, from Java/Spring Boot telecom microservices to production SQL Server platforms for a U.S. company.
 - ☁️ I design **end-to-end architectures** (database, backend, frontend) on **AWS** and **Azure**, from the client's SOW to an approved design.
 - 🗄️ I work on **production SQL Server platforms and data pipelines** for a leading U.S. marine manufacturer: database development, change governance, observability and legacy systems integration.
 - 👥 I've **led engineering teams**: code reviews, 1:1s, requirement translation with U.S. stakeholders and delivery.
-- 🔭 Genuinely passionate about data and AI (especially **agents and NLP**), working toward becoming an **AI Researcher** who builds state-of-the-art intelligent systems.
+- 🔭 Genuinely passionate about data and AI (especially **agents and NLP**), and working toward a long-term goal in **AI research**.
 
 ---
 
