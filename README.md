@@ -33,10 +33,6 @@ Part of the team that built a document-management engine on AWS S3 to replace pe
 `Grafana` `Prometheus` `Alertmanager` `SQL Server`<br>
 Designed and built from scratch an observability platform for production SQL Server, using ML analysis to choose the key performance metrics and alerts. It complements the commercial IDERA suite.
 
-**🤖 AI Invoice Reconciliation Engine (FinTech / Enterprise Solution)**<br>
-`Power Platform` `Azure SQL` `AI Matching` `React` `FastAPI` `OpenAI GPT`<br>
-Power Apps front end, Azure SQL for the business logic, Power Automate for Excel reports and Outlook drafts, and AI models for invoice matching. **Designed to automate ~90% of a fully manual** reconciliation and reimbursement workflow. Also built a full-stack proof of concept (React, FastAPI, OpenAI GPT on Cloudflare) to evaluate a cloud-native alternative architecture.
-
 **📊 Market Intelligence & Pricing Transparency**<br>
 `Python` `Machine Learning` `Data Platform`<br>
 Capstone project in progress on price transparency and information asymmetry, combining a data platform with predictive ML models.
